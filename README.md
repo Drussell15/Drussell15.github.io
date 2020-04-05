@@ -1,2 +1,2 @@
 # Drussell15.github.io
-pages site
+this serves as the live example for homework 1 html/css code refactoring.
